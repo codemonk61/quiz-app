@@ -12,6 +12,7 @@ import { store } from './redux/redux';
 
 
 const App = () => {
+
   return (
     <Provider store={store}>
     <Router>
